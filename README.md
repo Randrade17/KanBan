@@ -93,6 +93,12 @@ Faça um fork do projeto e envie um Pull Request 🚀
 
 Este projeto está sob a licença MIT.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido por Rafael Figueiredo 💻
+
+📫 Contato LinkedIn: https://www.linkedin.com/in/rafael-figueiredo-de-andrade/ GitHub: https://github.com/Randrade17 
+
+Se você gostou do projeto:
+
+⭐ Deixe uma estrela no repositório 🍴 Faça um fork 🛠️ Contribua com melhorias
